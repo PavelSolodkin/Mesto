@@ -1,8 +1,11 @@
+# Mesto
 Cards library
 
-Функционал размещает карточки с изображениями, удаляет ранее размещенные карточки, ставит/убирает лайки с карточек
+Функционал
+размещает карточки с изображениями, удаляет ранее размещенные карточки, ставит/убирает лайки с карточек
 
-Технологии: JS (ES5 / ES6); API; GIT; Webpack; HTML; CSS (flex, grid); BEM;
+Технологии:
+JS (ES5 / ES6); API; GIT; Webpack; HTML; CSS (flex, grid); BEM;
 
 Link https://pavelsolodkin.github.io/Mesto/
 
