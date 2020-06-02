@@ -1,15 +1,16 @@
 # Mesto
+
 Cards library
 
-Функционал
+# Функционал
 размещает карточки с изображениями, удаляет ранее размещенные карточки, ставит/убирает лайки с карточек
 
-Технологии:
+# Технологии:
 JS (ES5 / ES6); API; GIT; Webpack; HTML; CSS (flex, grid); BEM;
 
-Link https://pavelsolodkin.github.io/Mesto/
+# Link https://pavelsolodkin.github.io/Mesto/
 
-Развертывание:
+# Развертывание:
 
 Клонировать репозиторий командой git clone
 
@@ -17,6 +18,6 @@ Link https://pavelsolodkin.github.io/Mesto/
 
 Запустить необходимую сборку:
 
-npm run build - создает сборку Production
+1. npm run build - создает сборку Production
 
-npm run dev - создает сборку Development, запускает сервер, и открывает проект в браузере с hot обновлением
+2. npm run dev - создает сборку Development, запускает сервер, и открывает проект в браузере с hot обновлением
