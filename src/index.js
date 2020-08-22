@@ -52,7 +52,7 @@ export { validationErrors };
 /* Классы - константы */
 
 const api = new Api({
-  baseUrl: "https://praktikum.tk/cohort10",
+  baseUrl: "https://nomoreparties.co/cohort10",
   headers: {
     authorization: "411b019a-4458-480f-895e-891e9804e5ef",
     "Content-Type": "application/json",
